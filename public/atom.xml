@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://meatballsoup.github.io/atom.xml" rel="self"/>
-  <link href="http://meatballsoup.github.io/"/>
-  <updated>2014-02-22T02:41:04+08:00</updated>
-  <id>http://meatballsoup.github.io/</id>
+  <link href="http://meatballsoup.github.io/octo/atom.xml" rel="self"/>
+  <link href="http://meatballsoup.github.io/octo/"/>
+  <updated>2014-02-22T06:45:27+08:00</updated>
+  <id>http://meatballsoup.github.io/octo/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Heeeeeeeee]]></title>
+    <link href="http://meatballsoup.github.io/octo/blog/2014/02/22/heeeeeeeee/"/>
+    <updated>2014-02-22T06:43:35+08:00</updated>
+    <id>http://meatballsoup.github.io/octo/blog/2014/02/22/heeeeeeeee</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[My First Octopress Blog]]></title>
-    <link href="http://meatballsoup.github.io/blog/2014/02/22/my-first-octopress-blog/"/>
+    <link href="http://meatballsoup.github.io/octo/blog/2014/02/22/my-first-octopress-blog/"/>
     <updated>2014-02-22T01:15:09+08:00</updated>
-    <id>http://meatballsoup.github.io/blog/2014/02/22/my-first-octopress-blog</id>
+    <id>http://meatballsoup.github.io/octo/blog/2014/02/22/my-first-octopress-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
